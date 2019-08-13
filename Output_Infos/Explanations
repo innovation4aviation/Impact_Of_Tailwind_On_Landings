@@ -1,0 +1,5 @@
+In this folder you can find all the results concerning the Processing.py code :
+- LongLandings_Information contains four lists -> the numbers and the values of the wind direction, the numbers and the values of
+the wind intensity, for long landings flights only
+- Tailwind_Information contains the same information but for all flights with tailwind
+- Intensity_Tailwind, Direction_Tailwind and Result_Tailwind are only used for the Processing.py python code
