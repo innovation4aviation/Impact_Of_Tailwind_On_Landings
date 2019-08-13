@@ -1,0 +1,7 @@
+In this folder you can find :
+- CreationOfFiles.py : a python code which creates the airports.txt file and the dates.txt file 
+- airports.txt : it contains all airports which are concerned by the Avianca database
+- dates.txt : it contains all dates (for 2018)
+- a shell code : this code permits to get the informations from some webpages in METAR format. It uses the airports.txt and the 
+dates.txt files to get only the useful information needed in the project. This code creates metar_infos_airports.txt file which
+contains only the information for the airports of Avianca database for all year.
