@@ -1,0 +1,7 @@
+This folder contains the python codes :
+- Wind_Dict.py : this python code permits to create a dictionary with the wind information. It is used in the Processing.py code.
+- Processing.py : it contains the different function to have the information concerning the impact of tailwind on landings. It
+creates the documents in the Output Folders - graphs and txt files.
+- PostProcessing.py : permits to extract and count different caracteristics from the txt files result. It permits to have the right
+information to do the Khi Square Test.
+- Chisquare_Wind.py : it permits to dtermine the impact of tailwind on landings thanks to the Khi Square Test.
