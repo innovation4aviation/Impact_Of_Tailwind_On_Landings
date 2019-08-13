@@ -5,3 +5,5 @@ creates the documents in the Output Folders - graphs and txt files.
 - PostProcessing.py : permits to extract and count different caracteristics from the txt files result. It permits to have the right
 information to do the Khi Square Test.
 - Chisquare_Wind.py : it permits to dtermine the impact of tailwind on landings thanks to the Khi Square Test.
+- Test_khi_deux.xlsx : it contains the information to conclude the project : there is an impact on landings if there is tailwind 
+during the approach. The risk to do a long landing is more important with tailwind.
