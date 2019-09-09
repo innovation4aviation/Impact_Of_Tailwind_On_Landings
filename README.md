@@ -6,3 +6,5 @@ This project is based on the information from one year of flights (Avianca datab
 The projetc is separated into different sections. Each folder has got an Explanations file.
 
 /!\ don't forget to change the path name of the file in the python code.
+
+The presentation of the project (pdf file) can explain you the main goal of this project (long landing part).
